@@ -1,0 +1,10 @@
+c:\users\charles\documents\visual studio 2017\Projects\Kennen.D\Kennen.D\bin\Release\Kennen.D.exe.config
+c:\users\charles\documents\visual studio 2017\Projects\Kennen.D\Kennen.D\bin\Release\Kennen.D.exe
+c:\users\charles\documents\visual studio 2017\Projects\Kennen.D\Kennen.D\bin\Release\Kennen.D.pdb
+c:\users\charles\documents\visual studio 2017\Projects\Kennen.D\Kennen.D\bin\Release\Aimtec.dll
+c:\users\charles\documents\visual studio 2017\Projects\Kennen.D\Kennen.D\bin\Release\Aimtec.SDK.dll
+c:\users\charles\documents\visual studio 2017\Projects\Kennen.D\Kennen.D\bin\Release\NLog.dll
+c:\users\charles\documents\visual studio 2017\Projects\Kennen.D\Kennen.D\bin\Release\Newtonsoft.Json.dll
+c:\users\charles\documents\visual studio 2017\Projects\Kennen.D\Kennen.D\obj\Release\Kennen.D.csprojResolveAssemblyReference.cache
+c:\users\charles\documents\visual studio 2017\Projects\Kennen.D\Kennen.D\obj\Release\Kennen.D.exe
+c:\users\charles\documents\visual studio 2017\Projects\Kennen.D\Kennen.D\obj\Release\Kennen.D.pdb
